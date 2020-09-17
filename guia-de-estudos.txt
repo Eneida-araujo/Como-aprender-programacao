@@ -1,0 +1,150 @@
+base da programacao (+ ingles) (+ linux)
+
+algoritmos e logica (exercitar nas linguagens c, c++, c#, java e phyton)
+     1- conceitos
+     2- estrutura sequencial
+     3- estrutura condicional
+     4- estruturas repetitivas
+     5- vetores (arrays)
+     6- matrizes (arrays bidimensinais)
+
+     programacao estruturada
+     programacao orietada a objetos
+     programacao funcional
+     
+
+git e github
+
+modelagem de dados UML - prof. nelio alves
+
+html5
+
+css3
+
+banco de dados SQL e noSQL
+
+ux (experiencia do usuario)
+
+ui (design de interface)
+
+analise e design de sistemas
+
+Escolher linguagens (javascript, phyton, c#) - de acordo com seus objetivos de trabalho.
+     1- site oficial da linguagem
+     2- cartão de referencia da linguagem (imprimir)
+     3- forum e grupos de usuarios da linguagem
+     4- livro com a gramatica da linguagem (opcional/site oficial)
+
+Direcionar para a area comercial (backend, frontend-web, desktop, mobile)
+     ferramentas para crias aplicativos
+
+
+extras:
+
+     1-aprender codigo limpo
+
+     2- ter um pet code
+
+     3- manter-se atualizado(a):
+           participar de foruns sobre a linguagem
+           fazer cursos de atualizacao (sites: MIT, Stanford)
+           assinar listas de discussao
+           visitar periodicamente o site oficial
+           visitar sites de revistas (bug.br), blogs e outros envolvendo programacao
+    
+     4- criacao de ideias para programas de software ou games para smartphones
+
+     livros on line: 
+           https://pt.wikibooks.org/ 
+           pesquisar no google pdfs:
+                (nomedolivro)filetype:pdf
+     
+     cartoes de linguagem:
+           www.cheatography.com/
+           www.geeksforgeeks.org/
+
+     compiladores on line:
+           https://ideone.com/
+           https://www.onlinegdb.com/
+           https://www.codechef.com/ide
+
+     ranking das linguagens:
+           https://spectrum.ieee.org/static/
+           https://tiabe.com/tiabe-index/
+           https://pypl.github.is/PYPL.html
+
+     para programar em android nativo: (kotlin basico/kotlin avancado)
+           developer.android.com/cursos    
+
+     programas de certificado de carreira do google:
+           googlecourseracertificates
+           grow.google/certificates
+
+     site oficial de carreiras do google:
+           How to prepare for a google engeneering interview
+
+     google
+           coding: c++, java, python, go or c  
+           APIs: Objected orientated design and programming
+
+     aprendendo programacao com jogos: minecraft
+
+     linguagens para cada area:
+
+          segurança da informacao:
+               assembly
+               bash
+               c
+               c++
+               delphi
+               phyton
+               SQL          
+          
+          data science:
+               fortran
+               matlab
+               python
+               r
+
+          desktop:
+               c++
+               c#
+               delphi
+               java
+               visual basic
+
+          web:
+               html
+               css
+               javascript
+               php
+               SQL
+
+          mobile:
+               c
+               c++
+               java
+               phyton
+               kotlin
+               objective c
+               swift
+
+     jornada do programador:
+           fase 1 - copista
+           fase 2 - editor de codigos
+           fase 3 - dsenvolvedor (criador)
+
+ observacoes:
+
+ 1- desenvolvimento de software - cria o projeto
+       (bacharelado)
+       eng. de software
+       sistema de informacao
+
+ 2- programar - escreve códigos (cursos tecnicos) 
+
+ 3- criar programas - algoritmos
+
+
+
+           

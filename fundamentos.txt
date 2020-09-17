@@ -1,0 +1,13 @@
+Base da programacao - geek university e prof. marco aurelio thompson
+
+algoritmos e logica da programacao - prof. nelio alves e geek university
+
+git e github - prof. jose de assis (youtube) e geek university
+
+Modelagem de dados UML - prof. nelio alves
+
+programacao estruturada
+programacao orientada a objetos
+programacao funcional
+(obs: estudar dentro das linguagens.)
+
